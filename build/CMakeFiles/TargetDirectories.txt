@@ -1,4 +1,0 @@
-C:/msys64/home/CMakeTutorials/CMakeGood/Libraries/build/CMakeFiles/say_hello.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Libraries/build/CMakeFiles/Libraries.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Libraries/build/CMakeFiles/edit_cache.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Libraries/build/CMakeFiles/rebuild_cache.dir
